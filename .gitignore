@@ -1,0 +1,7 @@
+.idea/
+.mvn/
+src/main/resources/
+target/
+HELP.md
+mvnw
+mvnw.cmd
